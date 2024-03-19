@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "titulo": "Batman Return",
+        "genero": [
+            "Drama",
+            "Rom\u00e1ntica"
+        ],
+        "duracion": 120,
+        "sinopsis": "Bruce Wayne es un huerfano multimillonario, motivado por el asesinato de sus padres llena su corazon de venganza.",
+        "pais": "EEUU",
+        "clasificacion": "PG-13",
+        "calificacion": null,
+        "disponible": true,
+        "idioma": "Ingles"
+    },
+    {
+        "id": 2,
+        "titulo": "El Se\u00f1or de los anillos, la comunidad del anillo",
+        "genero": [
+            "Acci\u00f3n",
+            "Drama",
+            "Ciencia Ficci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "Se comienza a gestar la batalla final por la tierra",
+        "pais": "UK",
+        "clasificacion": "PG-13",
+        "calificacion": null,
+        "disponible": false
+    },
+    {
+        "id": 3,
+        "titulo": "La naranja mecanica",
+        "genero": [
+            "Drama",
+            "Suspenso"
+        ],
+        "duracion": 120,
+        "sinopsis": "Alex es el lider de una pandilla de adolesentes, les gusta actuar con ultraviolencia... hechos inesperados le hacen un giro a su vida y tiene que aprender a vivir de nuevo",
+        "pais": "uk",
+        "clasificacion": "NC-17",
+        "calificacion": null,
+        "disponible": true
+    },
+    {
+        "id": 4,
+        "titulo": "Hachiko, siempre a tu lado",
+        "genero": [
+            "Drama",
+            "Suspenso"
+        ],
+        "duracion": 120,
+        "sinopsis": "no me acuerdo bien :P",
+        "pais": "EEUU",
+        "idioma": "Ingles/Japones",
+        "clasificacion": "ATP",
+        "calificacion": 7.5,
+        "disponible": false
+    },
+    {
+        "id": 5,
+        "titulo": "rocky",
+        "genero": [
+            "Drama",
+            "Rom\u00e1ntica"
+        ],
+        "duracion": 120,
+        "sinopsis": "Apollo le da la oportunidad de su vida a un don nadie.",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": 9,
+        "disponible": true
+    },
+    {
+        "id": 6,
+        "titulo": "rocky II",
+        "genero": [
+            "Drama",
+            "Rom\u00e1ntica"
+        ],
+        "duracion": 120,
+        "sinopsis": "Rocky gana el titulo mundial",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": 10.0,
+        "disponible": true
+    },
+    {
+        "id": 7,
+        "titulo": "Gladiador",
+        "genero": [
+            "Acci\u00f3n",
+            "Drama"
+        ],
+        "duracion": 220,
+        "sinopsis": "Maximo Meridio era general en las legiones del norte en la antigua roma, una muerte y una traicion cambian su vida inesperadamente.",
+        "pais": "USA",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": 9,
+        "disponible": true
+    },
+    {
+        "id": 8,
+        "titulo": "Harry Potter",
+        "genero": [
+            "Drama",
+            "Ciencia Ficcion"
+        ],
+        "duracion": 120,
+        "sinopsis": "El ni\u00c3\u00b1o que sobrevivio",
+        "pais": "uk",
+        "idioma": "ingles",
+        "clasificacion": "PG-13",
+        "calificacion": 6.5,
+        "disponible": true
+    },
+    {
+        "id": 9,
+        "titulo": "Hitch",
+        "genero": [
+            "Comedia",
+            "Rom\u00e1ntica"
+        ],
+        "duracion": 70,
+        "sinopsis": "Alex Hitch es el doctor amor, ayuda a las personas a crear parejas perfectas esto le trae consecuencias en su vida.",
+        "pais": "USA",
+        "idioma": "Ingles",
+        "clasificacion": "ATP",
+        "calificacion": 6,
+        "disponible": false
+    },
+    {
+        "id": 11,
+        "titulo": "X-men",
+        "genero": [
+            "Acci\u00f3n",
+            "Drama",
+            "Ciencia Ficci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "La liga de mutantes",
+        "pais": "EEUU",
+        "idioma": "Ingles, Espa\u00f1ol",
+        "clasificacion": "PG",
+        "calificacion": 8.0,
+        "disponible": true
+    },
+    {
+        "id": 12,
+        "titulo": "prueba",
+        "genero": [
+            "Acci\u00f3n",
+            "Drama",
+            "Ciencia Ficci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "Clark Kent es Superman",
+        "pais": "EEUU",
+        "idioma": "Ingles, Espa\u00f1ol",
+        "clasificacion": "PG",
+        "calificacion": 2.0,
+        "disponible": true
+    },
+    {
+        "id": 13,
+        "titulo": "prueba 2",
+        "genero": [
+            "Acci\u00f3n",
+            "Drama",
+            "Ciencia Ficci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "Clark Kent es Superman",
+        "pais": "EEUU",
+        "idioma": "Ingles, Espa\u00f1ol",
+        "clasificacion": "PG",
+        "calificacion": 7,
+        "disponible": true
+    },
+    {
+        "id": 14,
+        "titulo": "prueba 3",
+        "genero": [
+            "Acci\u00f3n",
+            "Drama",
+            "Ciencia Ficci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "Clark Kent es Superman",
+        "pais": "EEUU",
+        "idioma": "Ingles, Espa\u00f1ol",
+        "clasificacion": "PG",
+        "calificacion": 1,
+        "disponible": true
+    },
+    {
+        "id": 15,
+        "titulo": "prueba 4",
+        "genero": [
+            "Acci\u00f3n",
+            "Drama",
+            "Ciencia Ficci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "Clark Kent es Superman",
+        "pais": "EEUU",
+        "idioma": "Ingles, Espa\u00f1ol",
+        "clasificacion": "PG",
+        "calificacion": 0,
+        "disponible": true
+    },
+    {
+        "id": 16,
+        "titulo": "prueba 5",
+        "genero": [
+            "Acci\u00f3n",
+            "Drama",
+            "Ciencia Ficci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "Clark Kent es Superman",
+        "pais": "EEUU",
+        "idioma": "Ingles, Espa\u00f1ol",
+        "clasificacion": "PG",
+        "calificacion": 9.0,
+        "disponible": true
+    },
+    {
+        "id": 17,
+        "titulo": "El milagro de P\u00b4Tinto",
+        "genero": [
+            "Comedia",
+            "Ciencia Ficci\u00f3n",
+            "Suspenso"
+        ],
+        "duracion": 60,
+        "sinopsis": "min nsadsan sadasdsad",
+        "pais": "Espa\u00f1a",
+        "idioma": "Espa\u00f1ol",
+        "clasificacion": "ATP",
+        "calificacion": 2,
+        "disponible": false
+    },
+    {
+        "id": 18,
+        "titulo": "Los aristo gatos",
+        "genero": [
+            "Animaci\u00f3n",
+            "Rom\u00e1ntica"
+        ],
+        "duracion": 90,
+        "sinopsis": "Tomas o\u00b4maley",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "ATP",
+        "calificacion": 7,
+        "disponible": true
+    },
+    {
+        "id": 19,
+        "titulo": "Hombre en llamas",
+        "genero": [
+            "Acci\u00f3n",
+            "Suspenso"
+        ],
+        "duracion": 110,
+        "sinopsis": "Bear",
+        "pais": "Estados Unidos",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": 8.0,
+        "disponible": true
+    },
+    {
+        "id": 20,
+        "titulo": "Rocky III",
+        "genero": [
+            "Drama",
+            "Rom\u00e1ntica"
+        ],
+        "duracion": 120,
+        "sinopsis": "Rocky vs Mr. T",
+        "pais": "EEUU",
+        "clasificacion": "PG-13",
+        "calificacion": 8,
+        "disponible": true,
+        "idioma": "Ingles"
+    },
+    {
+        "id": 21,
+        "titulo": "Stars Wars episodio VII",
+        "genero": [
+            "Acci\u00f3n",
+            "Ciencia Ficci\u00f3n",
+            "Drama"
+        ],
+        "duracion": 110,
+        "sinopsis": "Un nuevo despertar en la fuerza.",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": 10,
+        "disponible": true
+    },
+    {
+        "id": 22,
+        "titulo": "Rocky V",
+        "genero": [
+            "Drama",
+            "Rom\u00e1ntica"
+        ],
+        "duracion": 110,
+        "sinopsis": "Rocky pelea con su alumno",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": null,
+        "disponible": false
+    },
+    {
+        "id": 23,
+        "titulo": "Chatran",
+        "genero": [
+            "Acci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "Las aventuras del gato Chatran",
+        "pais": "EEUU",
+        "idioma": "ingles",
+        "clasificacion": "ATP",
+        "calificacion": null,
+        "disponible": true
+    },
+    {
+        "id": 24,
+        "titulo": "Spider-Man",
+        "genero": [
+            "Acci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "Petter Parker es el hombre ara\u00f1as",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "ATP",
+        "calificacion": null,
+        "disponible": true
+    },
+    {
+        "id": 25,
+        "titulo": "Piratas del caribe",
+        "genero": [
+            "Acci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "La maldicion del perla negra",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "ATP",
+        "calificacion": null,
+        "disponible": true
+    },
+    {
+        "id": 26,
+        "titulo": "Volver al futuro",
+        "genero": [
+            "Acci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "Marty McFly y el Dr. Brown viajan a travez del tiempo",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "ATP",
+        "calificacion": null,
+        "disponible": true
+    },
+    {
+        "id": 27,
+        "titulo": "Volver al futuro II",
+        "genero": [
+            "Drama",
+            "Ciencia ficci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "Segunda aventura de Marty y el Dr. Brown",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "ATP",
+        "calificacion": null,
+        "disponible": true
+    },
+    {
+        "id": 28,
+        "titulo": "Volver al futuro III",
+        "genero": [
+            "Drama",
+            "Ciencia ficci\u00f3n",
+            "Rom\u00e1ntica"
+        ],
+        "duracion": 120,
+        "sinopsis": "Tercera aventura de Marty y el Dr. Brown",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "ATP",
+        "calificacion": null,
+        "disponible": false
+    },
+    {
+        "id": 29,
+        "titulo": "Terminator",
+        "genero": [
+            "Acci\u00f3n",
+            "Drama",
+            "Ciencia ficci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "En un futuro no muy lejano las maquinas dominan el mundo",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": null,
+        "disponible": true
+    },
+    {
+        "id": 30,
+        "titulo": "Yo robot",
+        "genero": [
+            "Acci\u00f3n",
+            "Drama",
+            "Ciencia ficci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "El detective Spoon odia a los robots",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": null,
+        "disponible": true
+    },
+    {
+        "id": 31,
+        "titulo": "Esperando la carroza",
+        "genero": [
+            "Acci\u00f3n",
+            "Comedia"
+        ],
+        "duracion": 120,
+        "sinopsis": "Mama cora es una divertida jefa de familia",
+        "pais": "Argentina",
+        "idioma": "Espa\u00f1ol",
+        "clasificacion": "ATP",
+        "calificacion": null,
+        "disponible": true
+    },
+    {
+        "id": 34,
+        "titulo": "bbb",
+        "genero": [
+            "Acci\u00f3n",
+            "Animaci\u00f3n"
+        ],
+        "duracion": 45,
+        "sinopsis": "asdfkj sdafh sdakjfh kjsda",
+        "pais": "asdfsda",
+        "idioma": "asdf",
+        "clasificacion": "PG-13",
+        "calificacion": null,
+        "disponible": true
+    },
+    {
+        "id": 35,
+        "titulo": "aaa",
+        "genero": [
+            "Acci\u00f3n"
+        ],
+        "duracion": 111,
+        "sinopsis": "asdf asfd asdf asdfa sd",
+        "pais": "ersd",
+        "idioma": "asdf",
+        "clasificacion": "R",
+        "calificacion": null,
+        "disponible": false
+    },
+    {
+        "id": 37,
+        "titulo": "Que se yo",
+        "genero": [
+            "Acci\u00f3n",
+            "Drama"
+        ],
+        "duracion": 120,
+        "sinopsis": "saf fasf sdaf dfg dg dffa sd fsdafasf gdfg sdfgf sa fg dffsg dsfasdfg sdgas",
+        "pais": "sfsdfdsdfsd",
+        "idioma": "sadfdsf",
+        "clasificacion": "ATP",
+        "calificacion": null,
+        "disponible": false
+    }
+]

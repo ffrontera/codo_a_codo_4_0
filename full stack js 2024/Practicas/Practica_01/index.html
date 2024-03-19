@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.5.1/css/all.css" crossorigin="anonymous">
+    <title>Página de ejemplo</title>
+</head>
+<body>
+    <header id="header">
+        <nav>
+            <ul class="nav">
+                <li>
+                    <button onclick="mostrarSeccion('home')">Home</button>
+                </li>
+                <li>
+                    <button onclick="mostrarSeccion('about')">Acerca de</button>
+                </li>
+                <li>
+                    <button onclick="mostrarSeccion('contacto')">Contacto</button>                    
+                </li>
+                <li>
+                    <button onclick="mostrarSeccion('registro')">Regístrese</button>
+                </li>
+                <li>
+                    <button onclick="mostrarSeccion('sucursales')">Sucursales</button>
+                </li>
+            </ul>
+        </nav>
+        <h1>
+            Recetas de cocina
+        </h1>
+    </header>
+    
+    <main>
+        <section id="home">
+            <header class="section-titulo">
+                <h2>
+                    Sopa crema de Calabaza
+                </h2>
+            </header>
+            <div class="section-img">
+                <img src="img/sopa.jfif" alt="Pan de masa madre" >
+            </div>
+            <div id="receta-btn">
+                <button onclick="mostrarReceta()">
+                    Receta
+                </button>
+            </div>
+            <div id="receta">
+                <button onclick="ocultarReceta()" id="xReceta">
+                    X
+                </button>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate fugiat dolorem tempora quia neque nemo.</p>
+                <div class="ingredientes">
+                    <div>
+                        <h3>Ingredientes</h3>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Cant</th>
+                                    <th>Producto</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>1 un.</td>
+                                    <td>Calabaza</td>
+                                </tr>
+                                <tr>
+                                    <td>50 cc</td>
+                                    <td>Crema</td>
+                                </tr>
+                                <tr>
+                                    <td>1 un.</td>
+                                    <td>laurel</td>
+                                </tr>
+                                <tr>
+                                    <td>c/c</td>
+                                    <td>Sal</td>
+                                </tr>
+                                <tr>
+                                    <td>1 lt</td>
+                                    <td>Caldo de pollo</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div>
+                        <h3>A tener en cuenta</h3>
+                        <ul>
+                            <li>Tiempo de elaboracion 1:10hs</li>
+                            <li>Cantidad de calorias 50 calorías por porción</li>
+                            <li>Rinde 4 porciones</li>
+                            <li>Costo: $80</li>
+                        </ul>
+                    </div>
+                </div>
+                    </div>
+        </section>
+
+        <section id="contacto">
+            <header class="section-titulo">
+                <h2 class="contacto">
+                    Contacto
+                </h2>
+            </header>
+            <p>
+                Envíame tu sugerencia a mi correo: <a href="mailto:ejemplo@correo.com">ejemplo@correo.com</a>
+            </p>
+        </section>
+
+        <section id="about">
+            <header class="section-titulo">
+                <h2>
+                    Pan de masa madre
+                </h2>
+            </header>
+            <div class="section-img">
+                <img src="img/abuela_cocinando.jfif" alt="Pan de masa madre">
+            </div>
+            <div class="about-descripcion">
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, quidem, possimus quibusdam at vitae ab laudantium soluta voluptatibus voluptatem eaque rerum beatae voluptate quos! Optio provident dolore nam quam necessitatibus?
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit illo perferendis suscipit sapiente dolorum mollitia placeat nemo nobis dolores optio. Ullam mollitia corporis excepturi? Perferendis omnis nam porro alias explicabo.
+                </p>
+            </div>
+        </section>
+
+        <section id="sucursales">
+            <header class="section-titulo">
+                <h2 class="contacto">
+                    Sucursales
+                </h2>
+            </header>
+            <p>Villa Devoto: <a href="">Fco. Beiró 4800 - CABA</a></p>
+            <p>Urquiza: <a href="">Triunvirato 3000 - CABA</a></p>
+            <p>Belgrano: <a href="">Cabildo 3200 - CABA</a></p>
+            <p>Recoleta: <a href="">Callao 1500 - CABA</a></p>
+            <div class="mapas">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.742214511863!2d-58.52090892488436!3d-34.6106795578647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb7d0c18122cf%3A0x16e318de5f9e91fa!2sAv.%20Francisco%20Beir%C3%B3%204800%2C%20C1419HZW%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1710118381285!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.7662358934485!2d-58.46731412488586!3d-34.58478105649727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb60a440ef8fb%3A0x4e34d3fd9e77ca4b!2sAv%20Triunvirato%203000%2C%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1710118419755!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.0270317947025!2d-58.467895224887556!3d-34.55287095481367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb682dda080b7%3A0x5467664e274a1d00!2sAv.%20Cabildo%203200%2C%20C1429AAP%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1710118446340!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3284.488384928648!2d-58.39472772488539!3d-34.591809856868394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccabd1884df65%3A0xf974d921edc5bb81!2sAv.%20Callao%201500%2C%20C1024AAN%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1710118467729!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </section>
+
+        <section id="registro">
+            <header class="section-titulo">
+                <h2 class="contacto">
+                    Formulario de registro
+                </h2>
+            </header>
+            <div class="registro">
+                <form action="show_data.html">
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" name="fname" id="nombre" placeholder="Ingrese su nombre aquí...">
+                    <label for="apellido">Apellido:</label>
+                    <input type="text" name="lname" id="apellido" placeholder="Ingrese su apellido aquí...">
+                    <p>Direccion:</p>
+                    <label for="calle">Calle:</label>
+                    <input type="text" name="calle" id="calle" placeholder="Ingrese su calle aquí...">
+                    <label for="numCalle">Numero:</label>
+                    <input type="number" name="numCalle" id="numCalle" placeholder="Ingrese le número...">
+                    <label for="ciudad">Ciudad:</label>
+                    <input type="text" name="city" id="ciudad" placeholder="Ingrese su direccion aquí...">
+                    <label for="pcode">Código postal</label>
+                    <input type="number" name="pcode" id="pcode" placeholder="Ingrese su codigo postal aquí...">
+                    <br>
+                    <label for="tel">Telefono:</label>
+                    <input type="tel" name="tel" id="tel" placeholder="Ingrese su telefono aquí...">
+                    <label for="fday">Fecha Nac.:</label>
+                    <input type="date" name="fday" id="fday">
+                    <label for="email">Mail:</label>
+                    <input type="email" name="email" id="email">
+                    <label for="pwd">Clave:</label>
+                    <input type="password" name="pwd" id="pwd">
+                    <label for="link">Link del TP 3:</label>
+                    <input type="url" name="link" id="link">
+                    <br>
+                    <p class="ver-inline">Género: (Radio)</p>
+                    <input type="radio" name="genre" id="man" value="man">
+                    <label for="man">Hombre</label>
+                    <input type="radio" name="genre" id="women" value="women">
+                    <label for="women">Mujer</label>
+                    <input type="radio" name="genre" id="other" value="other">
+                    <label for="other">Otro</label>
+                    <br>
+                    <p class="ver-inline">Conocimientos previos: (Checkbox)</p>
+                    <input type="checkbox" name="html" id="html" value="html">
+                    <label for="html">HTML</label>
+                    <input type="checkbox" name="css" id="css" value="css">
+                    <label for="css">CSS</label>
+                    <input type="checkbox" name="bootstrap" id="bootstrap" value="bootstrap">
+                    <label for="bootstrap">Bootstrap</label>
+                    <input type="checkbox" name="javascript" id="javascript" value="javascript">
+                    <label for="javascript">JavaScript</label>
+                    <input type="checkbox" name="typescript" id="typescript" value="typescript">
+                    <label for="typescript">TypeScript</label>
+                    <input type="checkbox" name="angular" id="angular" value="angular">
+                    <label for="angular">Angular</label>
+                    <input type="checkbox" name="database" id="database" value="database">
+                    <label for="database">Base de datos</label>
+                    <input type="checkbox" name="python" id="python" value="python">
+                    <label for="python">Python</label>
+                    <input type="checkbox" name="django" id="django">
+                    <label for="django">Django</label>
+                    <br>
+                    <label for="estudios">Estudios: (Select) </label>
+                    <select name="estudios" id="estudios">
+                        <option value="primarios">Primaria</option>
+                        <option value="secundarios">Secundaria</option>
+                        <option value="terciarios">Terciaria</option>
+                        <option value="universitarios">Uiversitaria</option>
+                        <option value="otros">Otros</option>
+                    </select>
+                    <br>
+                    <label for="comentarios">Comentarios:</label>
+                    <br>
+                    <textarea name="comentarios" id="comentarios" cols="30" rows="3"></textarea>
+                    <br>
+                    <input type="submit" value="Enviar">
+                </form>
+            </div>
+        </section>
+
+    </main>
+    
+    <footer>
+        <p>
+            <a href="https://twitter.com" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+            <a href="https://www.facebook.com" target="_blank"> <i class="fa-brands fa-facebook"></i></a>
+            <a href="https://ar.pinterest.com/" target="_blank"><i class="fa-brands fa-pinterest"></i></a>
+            <a href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+            <a href="https://www.linkedin.com" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+        </p>
+        <p>
+            Federico Frontera - 2024
+        </p>
+    </footer>
+    <script src="app.js"></script>
+</body>
+</html>

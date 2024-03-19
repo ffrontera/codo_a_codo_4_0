@@ -1,0 +1,49 @@
+{
+    "peliculas": [
+        {
+            "ID": 1,
+            "titulo": "Harry Potter",
+            "genero": [
+                "Drama",
+                "Ciencia Ficcion"
+            ],
+            "duracion": 120,
+            "sinopsis": "El ni\u00c3\u00b1o que sobrevivio",
+            "pais": "uk",
+            "idioma": "ingles",
+            "clasificacion": "PG-13",
+            "calificacion": 5,
+            "disponible": true
+        },
+        {
+            "ID": 2,
+            "titulo": "Harry Potter 2",
+            "genero": [
+                "Drama",
+                "Ciencia Ficcion"
+            ],
+            "duracion": 120,
+            "sinopsis": "segunda aventura de harry y sus amigos",
+            "pais": "uk",
+            "idioma": "ingles",
+            "clasificacion": "PG-13",
+            "calificacion": 5,
+            "disponible": true
+        },
+        {
+            "ID": 3,
+            "titulo": "Harry Potter 3",
+            "genero": [
+                "Drama",
+                "Ciencia ficci\u00f3n"
+            ],
+            "duracion": 120,
+            "sinopsis": "Tercera aventura de harry y sus amigos",
+            "pais": "uk",
+            "idioma": "",
+            "clasificacion": "PG-13",
+            "calificacion": 0.0,
+            "disponible": false
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+print("Vivis en: " + input("En que país vivís?: "))

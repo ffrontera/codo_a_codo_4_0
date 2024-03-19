@@ -1,0 +1,1 @@
+print("El nombre de tu gaseosa es: \"" + input("Ingresa el nombre de cualquier ciudad del mundo: ") + " " + input("Ingresa un color: ") + "\"")

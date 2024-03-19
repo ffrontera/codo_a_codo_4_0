@@ -1,0 +1,211 @@
+[
+    {
+        "id": 1,
+        "titulo": "Batman Return",
+        "genero": [
+            "Acci\u00f3n",
+            "Drama",
+            "Ciencia Ficci\u00f3n"
+        ],
+        "duracion": 120,
+        "sinopsis": "Bruce Wayne es un multimillonario huerfano, que motivado por el dolor por el asesinato de sus padres, sale en busqueda de venganza",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": 7,
+        "disponible": true
+    },
+    {
+        "id": 2,
+        "titulo": "Rocky",
+        "genero": [
+            "Drama",
+            "Rom\u00e1ntica"
+        ],
+        "duracion": 120,
+        "sinopsis": "Apollo Creed es el campeon mundial indiscutido de los pesos pesados, para los festejos del dia de la independencia decide darle la oportunidad de su vida a un desconocido Rocky.",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": 9,
+        "disponible": true
+    },
+    {
+        "id": 3,
+        "titulo": "Rocky II",
+        "genero": [
+            "Drama",
+            "Rom\u00e1ntica"
+        ],
+        "duracion": 120,
+        "sinopsis": "Luego de la gran impresion que dejo Rocky en la pelea con Apollo el publico pide revancha... esta se da con resultado inesperado.",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": 4.0,
+        "disponible": true
+    },
+    {
+        "id": 4,
+        "titulo": "Rocky III",
+        "genero": [
+            "Drama",
+            "Rom\u00e1ntica"
+        ],
+        "duracion": 120,
+        "sinopsis": "Luego de la obtencion del titulo mundial de peso completo, Rocky desarrolla su carrera en el mundo de las narices \u00f1atas sin problemas hasta que se topa con Mr. T",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": 1,
+        "disponible": true
+    },
+    {
+        "id": 5,
+        "titulo": "Rocky IV",
+        "genero": [
+            "Drama",
+            "Rom\u00e1ntica"
+        ],
+        "duracion": 120,
+        "sinopsis": "Rocky y Apollo ya son amigos y se enfrentan a a la URRS encarnada en la piel del poderoso Ivan Drago",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": 8.0,
+        "disponible": true
+    },
+    {
+        "id": 6,
+        "titulo": "Nueve reinas",
+        "genero": [
+            "Drama",
+            "Suspenso"
+        ],
+        "duracion": 90,
+        "sinopsis": "Solo recuerdo que habia pungas xD",
+        "pais": "Argentina",
+        "idioma": "Espa\u00f1ol",
+        "clasificacion": "PG-13",
+        "calificacion": 4.5,
+        "disponible": false
+    },
+    {
+        "id": 7,
+        "titulo": "El milagro de P\u00b4Tinto",
+        "genero": [
+            "Comedia",
+            "Ciencia Ficci\u00f3n"
+        ],
+        "duracion": 60,
+        "sinopsis": "Un OVNI visita a la familia P\u00b4Tinto",
+        "pais": "Espa\u00f1a",
+        "idioma": "Espa\u00f1ol",
+        "clasificacion": "ATP",
+        "calificacion": 4.5,
+        "disponible": false
+    },
+    {
+        "id": 8,
+        "titulo": "Yo robot",
+        "genero": [
+            "Drama",
+            "Ciencia Ficci\u00f3n"
+        ],
+        "duracion": 90,
+        "sinopsis": "El detective Spoon odia los robots, pero pasan cosas.",
+        "pais": "EEUU",
+        "idioma": "Ingles",
+        "clasificacion": "PG-13",
+        "calificacion": 9,
+        "disponible": false
+    },
+    {
+        "id": 9,
+        "titulo": "El circulo",
+        "genero": [
+            "Ciencia Ficci\u00f3n",
+            "Terror"
+        ],
+        "duracion": 120,
+        "sinopsis": "Es m\u00e1s de le que pude soportar, no pase de los 20 minutos",
+        "pais": "No recuerdo",
+        "idioma": "Ingles",
+        "clasificacion": "NC-17",
+        "calificacion": 1.0,
+        "disponible": false
+    },
+    {
+        "id": 10,
+        "titulo": "Me canse de pensar en titulos",
+        "genero": [
+            "Comedia"
+        ],
+        "duracion": 30,
+        "sinopsis": "Ya se me fundio la cabeza",
+        "pais": "Cordobalandia",
+        "idioma": "Cordoooobe",
+        "clasificacion": "R",
+        "calificacion": 6.5,
+        "disponible": false
+    },
+    {
+        "id": 11,
+        "titulo": "Y seguimos con el bloqueo mental",
+        "genero": [
+            "Ciencia Ficci\u00f3n"
+        ],
+        "duracion": 100,
+        "sinopsis": "Estoy flipando dijo el espa\u00f1ol",
+        "pais": "Espa\u00f1a",
+        "idioma": "Espa\u00f1ol",
+        "clasificacion": "PG",
+        "calificacion": 3.0,
+        "disponible": false
+    },
+    {
+        "id": 12,
+        "titulo": "El espiral para los mosquitos de Cristina",
+        "genero": [
+            "Suspenso"
+        ],
+        "duracion": 15,
+        "sinopsis": "Tutorial de como colgar un espiral en un clavo sostenido por un sujetador de hojas sobre un cenicero",
+        "pais": "Cordoba",
+        "idioma": "Cordooooobe",
+        "clasificacion": "ATP",
+        "calificacion": 9,
+        "disponible": true
+    },
+    {
+        "id": 14,
+        "titulo": "Los cuadros de Maria",
+        "genero": [
+            "Ciencia Ficci\u00f3n",
+            "Acci\u00f3n"
+        ],
+        "duracion": 123,
+        "sinopsis": "No tengo ni la menor de las ideas de que viene esta peli",
+        "pais": "Argentina",
+        "idioma": "Catal\u00e1n",
+        "clasificacion": "R",
+        "calificacion": 7.0,
+        "disponible": false
+    },
+    {
+        "id": 15,
+        "titulo": "Ni idea.com",
+        "genero": [
+            "Terror",
+            "Suspenso",
+            "Animaci\u00f3n"
+        ],
+        "duracion": 999,
+        "sinopsis": "No tengo idea la acabo de inventar",
+        "pais": "NOruega",
+        "idioma": "Noruego",
+        "clasificacion": "PG-13",
+        "calificacion": 0.0,
+        "disponible": false
+    }
+]

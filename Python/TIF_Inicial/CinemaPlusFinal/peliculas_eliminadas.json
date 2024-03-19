@@ -1,0 +1,16 @@
+[
+    {
+        "id": 13,
+        "titulo": "Me cago en los benditos Tytus",
+        "genero": [
+            "Terror"
+        ],
+        "duracion": 999,
+        "sinopsis": "Estos alacranes me estan volviendo loco",
+        "pais": "Sampacholandia",
+        "idioma": "Cordoooobe",
+        "clasificacion": "ATP",
+        "calificacion": 3.5,
+        "disponible": true
+    }
+]

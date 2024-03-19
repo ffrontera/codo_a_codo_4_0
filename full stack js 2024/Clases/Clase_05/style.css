@@ -1,0 +1,26 @@
+* {
+    /* margin: 0;
+    padding: 0; */
+    box-sizing: border-box;
+}
+
+h1, h2 {
+    color: brown;
+    background-color: aquamarine;
+}
+
+p {
+    color: blue;
+}
+
+.primer-parrafo{
+    background-color: bisque;
+}
+
+#primer-parrafo-seccion-2 {
+    color: red;
+}
+
+.parrafo {
+    color: green;
+}

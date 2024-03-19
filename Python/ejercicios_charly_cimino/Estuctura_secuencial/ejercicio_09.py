@@ -1,0 +1,6 @@
+seg_ingresados = int(input("Ingrese un tiempo en segundos: "))
+seg = int(seg_ingresados % 60)
+min = int(((seg_ingresados - seg) / 60) % 60)
+horas = int((((seg_ingresados - seg) / 60) / 60) % 24)
+dias =  int((((seg_ingresados - seg) / 60) / 60) / 24)
+print(f"La {seg_ingresados} segundos,equivale a: {dias} Dias, {horas} Horas, {min} Minutos y {seg} segundos.")

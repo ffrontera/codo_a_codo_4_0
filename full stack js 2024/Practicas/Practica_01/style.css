@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+}
+
+#header{
+    height: 15vh;
+}
+
+#header, footer{
+    background-color: black;
+    color: white;
+}
+
+.nav{
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav li{
+    display: inline-block;
+    margin: 10px 0 0 5px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+main {
+    height: 70vh;
+    margin: 2vh;
+}
+
+section{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 20px;
+}
+
+#about{
+    display: none;
+}
+
+#contacto {
+    display: none;
+}
+
+#registro{
+    display: none;
+}
+
+form p, form input, form label, form textarea, form select{
+    margin: 1.4vh 0;
+}
+
+.ver-inline{
+    display: inline-block;
+}
+
+#sucursales{
+    display: none;
+}
+
+#sucursales p{
+    margin: 10px 0;
+}
+
+.mapas{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    height: 60%;
+}
+
+iframe{
+    width: 24.5%;
+    height: 100%;
+    
+}
+
+.section-titulo{
+    height: 10%;
+}
+
+.section-img{
+    text-align: center;
+    height: 69%;
+    margin: 1% 0;
+}
+
+.section-img img{
+    height: 100%;
+}
+
+button{
+    border: none;
+    border-radius: 5px;
+    background-color: darkgray;
+    padding: 5px;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: gray;
+    color: black;
+}
+
+#receta{
+    display: none;
+    position: relative;
+}
+
+#xReceta{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.ingredientes{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-direction: row;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.fa-brands{
+    margin: 5px;
+    color: white;
+}
+
+.fa-brands:hover{
+    color: gray;
+}
